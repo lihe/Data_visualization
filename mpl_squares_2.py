@@ -1,3 +1,4 @@
+"""修改标签文字和线条粗细"""
 import matplotlib.pyplot as plt
 
 squares = [1, 4, 9, 16, 25]
